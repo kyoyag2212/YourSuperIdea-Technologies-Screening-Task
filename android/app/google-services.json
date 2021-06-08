@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44481012968",
+    "project_id": "yoursuperidea-technologies",
+    "storage_bucket": "yoursuperidea-technologies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44481012968:android:06c4e6f0ccb3bb0543555d",
+        "android_client_info": {
+          "package_name": "com.example.yoursuperideaechnologies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44481012968-nja6bhuuill7bijb59fuc66rka2m5dss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkVsilrRVs7oSb8oH_tRcAlkHdt99jFWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44481012968-nja6bhuuill7bijb59fuc66rka2m5dss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
